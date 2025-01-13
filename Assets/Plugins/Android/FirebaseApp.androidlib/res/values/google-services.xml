@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://disc-golf-master-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">1029179236945</string>
+  <string name="google_storage_bucket" translatable="false">disc-golf-master.firebasestorage.app</string>
+  <string name="project_id" translatable="false">disc-golf-master</string>
+  <string name="google_api_key" translatable="false">AIzaSyA7GuOSEWeBoqJ_9RPNEihk2UuTQgAKncA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7GuOSEWeBoqJ_9RPNEihk2UuTQgAKncA</string>
+  <string name="google_app_id" translatable="false">1:1029179236945:android:819ce15fdd90e8c12e0e70</string>
+  <string name="default_android_client_id" translatable="false">1029179236945-9iuqtgqtaj40fgqlmlf77sna7jndknl1.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1029179236945-isakgim4sef81hio4t51lbs5i6jpvt6s.apps.googleusercontent.com</string>
+</resources>

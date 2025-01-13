@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029179236945",
+    "firebase_url": "https://disc-golf-master-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "disc-golf-master",
+    "storage_bucket": "disc-golf-master.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029179236945:android:819ce15fdd90e8c12e0e70",
+        "android_client_info": {
+          "package_name": "com.FiLowGStudio.DiscGolfMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029179236945-9iuqtgqtaj40fgqlmlf77sna7jndknl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FiLowGStudio.DiscGolfMaster",
+            "certificate_hash": "eb2f3814b48790a29cd592d9fb0e68403f9767f9"
+          }
+        },
+        {
+          "client_id": "1029179236945-isakgim4sef81hio4t51lbs5i6jpvt6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7GuOSEWeBoqJ_9RPNEihk2UuTQgAKncA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029179236945-isakgim4sef81hio4t51lbs5i6jpvt6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
